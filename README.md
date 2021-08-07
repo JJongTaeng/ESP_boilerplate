@@ -7,7 +7,7 @@
   - .env : 환경 변수 설정
   - config/config.json : Database 연결정보 설정
 
-```JavaScript
+```Text
 
 PORT=<port number>
 JWT_KEY=<JWT SECRETKEY>
